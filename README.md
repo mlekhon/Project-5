@@ -17,5 +17,4 @@ The dataset encompasses crucial match details, including venue, team1, team2, st
 # Conclusion:
 This project offers a comprehensive analysis of the T20 World Cup 2022, uncovering crucial insights into team performances, toss strategies, and standout player achievements. By examining these aspects, the project contributes to a deeper understanding of the dynamic and exciting world of T20 cricket.
 # Tools and Technologies:
-Python for data analysis and visualization (pandas, Matplotlib, Seaborn).
-Jupyter Notebook for code organization and documentation.
+Python for data analysis and visualization (pandas, Matplotlib, Seaborn). Jupyter Notebook for code organization and documentation.
