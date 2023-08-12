@@ -1,4 +1,4 @@
-Decoding the Dynamics of T20 World Cup 2022: Unveiling Strategic Insights and Stellar Performances
+Decoding the Dynamics of T20 World Cup 2022: Unveiling Strategic Insights and Stellar Performances.
 # Abstract:
 This project presents an in-depth exploration of the T20 World Cup 2022 data, focusing on key performance indicators such as team scores, match outcomes, toss decisions, and individual player achievements. Utilizing data visualization and statistical analysis, the project aims to provide valuable insights into team dynamics, match strategies, and standout player performances during the tournament.
 # Introduction:
